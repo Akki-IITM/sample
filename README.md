@@ -11,3 +11,11 @@
   <p>Contact me: <!--email_off-->24f2002540@ds.study.iitm.ac.in<!--/email_off--></p>
 </body>
 </html>
+
+vercel-fastapi-app/
+├── api/
+│   └── index.py           ← Vercel entry point
+├── marks.json             ← your data file
+├── requirements.txt
+├── vercel.json
+
