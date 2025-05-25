@@ -12,10 +12,4 @@
 </body>
 </html>
 
-vercel-fastapi-app/
-├── api/
-│   └── index.py           ← Vercel entry point
-├── marks.json             ← your data file
-├── requirements.txt
-├── vercel.json
 
